@@ -1,6 +1,7 @@
 ## AUTOMATIC-RECON-FOR-WEB-APPS-RECON-OSIT
 
-<img width="1405" height="744" alt="Screenshot 2026-02-12 alle 12 42 56" src="https://github.com/user-attachments/assets/1f0f8f73-819b-4ee9-90f8-dab6798ec7c6" />
+<img width="1410" height="771" alt="Screenshot 2026-02-12 alle 13 00 41" src="https://github.com/user-attachments/assets/c99ab890-ffae-4cf8-a520-8dbc25006c1c" />
+
 
 
 
