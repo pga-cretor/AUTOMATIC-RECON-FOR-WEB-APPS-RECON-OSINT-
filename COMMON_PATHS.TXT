@@ -1,0 +1,12 @@
+admin
+login
+dashboard
+config
+backup
+old
+test
+phpinfo.php
+robots.txt
+.svn/
+.git/
+.env
